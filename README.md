@@ -20,7 +20,7 @@ All the image set is provided in Googledrive.
 </div>
 
 # Implementation
-The detail implementation source code <strong>Coming Soon</strong>.
+This repository will provide the code for the paper -- <strong>Coming Soon</strong>.
 
 # Cite
 The relative paper should be cited when you use our code or dataset.
