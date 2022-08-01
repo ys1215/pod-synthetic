@@ -7,11 +7,11 @@ All the image set is provided in Googledrive.
 
 # Overview
 <div align=center><img  src="./doc/2.The%20flow%20chart.png" />
-<p align=center>The flow chart of synthesizing fine-labeled multi-class soybean pods images</p>
+<p align=left><strong>Figure.1: The flow chart of synthesizing fine-labeled multi-class soybean pods images</strong></p>
 </div>
 
-<div align=center><img src="./doc/9.The%20detail%20of%20the%20synthesizing%20fine-labeled%20.png" />
-<p align=center>The detail of the synthesizing fine-labeled multi-class soybean pods images dataset including simulated soybean pod image, corresponding mask image and homologous class-label file</p>
+<div align=left><img src="./doc/9.The%20detail%20of%20the%20synthesizing%20fine-labeled%20.png" />
+<p align=left><strong>Figure.2: The detail of the synthesizing fine-labeled multi-class soybean pods images dataset including simulated soybean pod image, corresponding mask image and homologous class-label file</strong></p>
 </div>
 
 # Results
