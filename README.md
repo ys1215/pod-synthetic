@@ -16,7 +16,7 @@ All the image set is provided in Googledrive.
 
 # Results
 <div align=center><img  src="./doc/2000.png" />
-<p align=left><strong>Figure.3: The synthetic COCO-dataset result example </strong></p>
+<p align=left><strong>Figure.3: The synthetic high throughput fine-labeled multi-class pods image example </strong></p>
 </div>
 
 # Implementation
