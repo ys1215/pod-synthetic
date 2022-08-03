@@ -15,7 +15,7 @@ All the image set is provided in Googledrive.
 </div>
 
 # Results
-<div align=center><img  src="./doc/2000.png" />
+<div align=center><img  src="./doc/1220.png" />
 <p align=left><strong>Figure.3: The synthetic COCO-dataset result example </strong></p>
 </div>
 
