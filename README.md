@@ -16,16 +16,17 @@ All the image set is provided in Googledrive.
 
 # Results
 <div align=center><img  src="./doc/1220.png" />
-<p align=left><strong>Figure.3: The synthetic COCO-dataset result example </strong></p>
+<p align=left><strong>Figure.3: The synthetic high throughput fine-labeled multi-class pods image example </strong></p>
 </div>
 
 # Implementation
-The detail implementation source code <strong>Coming Soon</strong>.
+This repository will provide the code for the paper -- <strong>Coming Soon</strong>.
 
 # Cite
 The relative paper should be cited when you use our code or dataset.
 
 # Reference
 [Toda Y, Okura F, Ito J, et al. Training instance segmentation neural network with synthetic datasets for crop seed phenotyping](https://www.nature.com/articles/s42003-020-0905-5)
+
 [Dwibedi D, Misra I, Hebert M. Cut, paste and learn: Surprisingly easy synthesis for instance detection](https://openaccess.thecvf.com/content_iccv_2017/html/Dwibedi_Cut_Paste_and_ICCV_2017_paper.html)
 
