@@ -1,4 +1,4 @@
-# Code for paper "Joint multi soybean pods segmentation and seed-per-pod estimation via combining instance segmentation network with fine-grained classification"
+# Code for paper "RefinePod: towards high throughput soybean pods high-quality segmentation and seed-per-pod estimation for plant breeding"
 
 
 # Data
